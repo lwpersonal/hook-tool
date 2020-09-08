@@ -3,6 +3,8 @@
 # README.md
 \!*.md
 
+package-lock.json
+
 # dev
 bower_components
 .happypack
